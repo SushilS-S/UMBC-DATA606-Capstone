@@ -44,7 +44,19 @@ Patients frequently leave hospitals with discharge papers they cannot interpret.
 - MedlinePlus: thousands of patient-facing health articles.  
 
 ### Unit of Observation  
-- Each row = one clinical note or report (with optional paired summary).  
+- Each row = one clinical note or report (with optional paired summary).
+- 
+| Column Name  | Data Type | Definition                               | 
+|--------------|-----------|------------------------------------------|
+| subject_id   | int       | Patient identifier (de-identified)       | 
+| hadm_id      | int       | Hospital admission ID                    | 
+| note_id      | int       | Unique note ID                           | 
+| chartdate    | date      | Note date                                | 
+| category     | string    | Note type                                | 
+| description  | string    | Sub-category of note                     | 
+| text         | string    | Full free-text note content              | 
+
+---
 
 
 ### Target / Label Variable  
