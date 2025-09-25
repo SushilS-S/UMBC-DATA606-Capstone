@@ -57,13 +57,3 @@ Patients frequently leave hospitals with discharge papers they cannot interpret.
 | text         | string    | Full free-text note content              | 
 
 ---
-
-
-### Target / Label Variable  
-- For summarization tasks: **summary text** (derived from discharge summaries or PubMed abstracts).  
-
-### Feature / Predictor Variables  
-- **Input text:** clinical notes.  
-- **Metadata:** category, description, note length (for analysis, not generation).  
-
----
