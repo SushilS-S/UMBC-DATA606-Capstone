@@ -23,21 +23,11 @@ Patients frequently leave hospitals with discharge papers they cannot interpret.
 ## Research Questions  
 
 1. Can LLMs trained on clinical notes produce concise, accurate, and patient-friendly summaries?  
-   - **Answer:** Yes. Transformer-based LLMs like BART, PEGASUS, and ClinicalBERT can generate concise summaries of clinical notes. However, while accurate, raw outputs remain technical. Adding a **simplification step** (dictionary + MedlinePlus-style model) makes them **patient-friendly**, lowering reading grade levels from ~14 to ~8.  
 
 2. Which medical terms need the most frequent simplification (e.g., “myocardial infarction” → “heart attack”)?  
-   - **Answer:** Common categories include:  
-     - Diseases/conditions: myocardial infarction → heart attack, cerebrovascular accident → stroke.  
-     - Procedures: coronary artery bypass graft → heart bypass surgery.  
-     - Medications: acetaminophen → Tylenol, metformin → diabetes medicine.  
-     - Lab findings: hyperglycemia → high blood sugar, leukocytosis → high white blood cell count.  
 
 3. How does the readability of AI-generated summaries compare to original clinical notes?  
-   - **Answer:**  
-     - **Original notes:** Grade 14–16 (college-level).  
-     - **AI summaries:** Grade 11–12.  
-     - **Simplified summaries:** Grade 7–9 (aligned with AMA/NIH standards).  
-     - Pipeline reduces text length by ~70–80% while improving readability significantly.  
+
 
 ---
 
