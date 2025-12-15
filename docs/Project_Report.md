@@ -5,10 +5,11 @@
 
 ## 1. Title and Author
 ### Project Title: Medical Report Summarizer 
-#### Github Repo: https://github.com/SushilS-S/UMBC-DATA606-Capstone
-#### Linkedin: https://www.linkedin.com/in/sushils-s/
-#### PPT: https://umbc-my.sharepoint.com/:p:/g/personal/sushils2_umbc_edu/IQAaMWnKuCXfR7A2EK7ZifzGAdEUk1XOtYfNyraqViamstM?e=ue7FVq
-#### Youtube Video: 
+**GitHub Repository:** [Repository](https://github.com/SushilS-S/UMBC-DATA606-Capstone)  
+**LinkedIn:** [Sushil S](https://www.linkedin.com/in/sushils-s/)  
+**PPT:** [Presentation](https://umbc-my.sharepoint.com/:p:/g/personal/sushils2_umbc_edu/IQAaMWnKuCXfR7A2EK7ZifzGAdEUk1XOtYfNyraqViamstM?e=ue7FVq)  
+**YouTube Video:** [Video](https://youtu.be/uJ1DiCt-isk)
+
 
 ## 2. Background
 
